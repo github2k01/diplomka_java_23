@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    tools:context=".like_video1_Fragment">
+    <TextView
+        android:layout_marginLeft="0dp"
+        android:text="0"
+        android:textSize="22dp"
+        android:textColor="@color/black"
+        android:id="@+id/dislike_comment_sany_textView_video1_fragment"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+
+</FrameLayout>
